@@ -18,5 +18,6 @@
     {"name": "饭盒烤肉火锅", "weight": 1, "average":  50, "distance":  0.7},
     {"name": "肯德基(KFC)",  "weight": 1, "average":  50, "distance":  0.8},
     {"name": "麦当劳",       "weight": 1, "average":  50, "distance":  0.7},
-    {"name": "羊蝎子",       "weight": 1, "average": 100, "distance":  0.7}
+    {"name": "羊蝎子",       "weight": 1, "average": 100, "distance":  0.7},
+    {"name": "换个地方",     "weight": 4, "average":  50, "distance":  2.0}
 ]
