@@ -1,0 +1,22 @@
+[
+    {"name": "地质所食堂",   "weight":16, "average":  20, "distance":  0.1},
+    {"name": "大气所食堂",   "weight": 0, "average":  20, "distance":  0.1},
+    {"name": "瑜妈川菜",     "weight": 8, "average":  25, "distance":  0.2},
+    {"name": "黄焖鸡米饭",   "weight": 1, "average":  25, "distance":  0.2},
+    {"name": "金竹轩",       "weight":16, "average":  20, "distance":  0.2},
+    {"name": "蜀香味",       "weight": 1, "average":  15, "distance":  0.2},
+    {"name": "新疆面馆",     "weight": 8, "average":  30, "distance":  0.1},
+    {"name": "内蒙稍麦",     "weight": 2, "average":  50, "distance":  0.8},
+    {"name": "村上一屋",     "weight": 2, "average":  50, "distance":  0.8},
+    {"name": "宏状元",       "weight": 1, "average":  30, "distance":  0.7},
+    {"name": "肉问屋",       "weight": 1, "average": 200, "distance":  1.7},
+    {"name": "牛排家",       "weight": 1, "average": 300, "distance":  1.7},
+    {"name": "潇湘阁",       "weight": 1, "average":  80, "distance":  2.0},
+    {"name": "海底捞",       "weight": 1, "average": 200, "distance":  2.0},
+    {"name": "朴秀英",       "weight": 1, "average": 100, "distance":  2.0},
+    {"name": "翘脚牛肉",     "weight": 1, "average":  20, "distance":  0.1},
+    {"name": "饭盒烤肉火锅", "weight": 1, "average":  50, "distance":  0.7},
+    {"name": "肯德基(KFC)",  "weight": 1, "average":  50, "distance":  0.8},
+    {"name": "麦当劳",       "weight": 1, "average":  50, "distance":  0.7},
+    {"name": "羊蝎子",       "weight": 1, "average": 100, "distance":  0.7}
+]
